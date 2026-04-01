@@ -1,10 +1,9 @@
 n, m = map(int, input().split())
 
 def lcm(n,m):
-    num =0
-    for i in range(1,101):
-        if i % n == 0 and i % m == 0 : 
-            num = i
+    for i in range(min(n,m),0,-1):
+        if n % i ==0 and m % i ==0:
+            gcd = i
             break
-    print(num)
-lcm(n,m)
+    return n*m // gcd
+print(lcm(n,m))
