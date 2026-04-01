@@ -1,13 +1,14 @@
-# 🌱 Python 코딩 실력 기르기 (CodeTree)
+# 🌱 Python 코딩 실력 기르기 <img width="100" height="25" alt="image" src="https://github.com/user-attachments/assets/2eb28e42-dc12-4f88-aacb-389841784bfd" />
 
-CodeTree를 활용하여 Python 코딩 실력을 꾸준히 향상시키는 과정을 기록하는 레포지토리입니다.  
-기초 문법부터 알고리즘 문제 해결 능력까지 단계적으로 성장하는 것을 목표로 합니다.
+
+CodeTree를 활용하여 Python 코딩 실력을 꾸준히 향상시키는 과정을 기록  
+기초 문법부터 알고리즘 문제 해결 능력까지 단계적으로 성장하는 것을 목표
 
 ---
 
 ## 🎯 목표
 - Python 기초 문법 완벽 이해
-- 문제 해결 능력(PS) 향상
+- 문제 해결 능력향상
 - 알고리즘 사고력 강화
 - 꾸준한 코딩 습관 형성
 
