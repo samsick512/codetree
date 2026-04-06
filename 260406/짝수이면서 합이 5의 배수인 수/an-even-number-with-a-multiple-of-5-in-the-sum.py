@@ -1,11 +1,8 @@
 n = int(input())
 
 def print_num(n):
-    num = n /10
-    mum = n //10
-    if n/2:
-        if (num+mum)//5==0:
-            return print("Yes")
-        else :
-            return print("No")
-print_num(n)
+    return n % 2 ==0 and (n// 10 +(n%10)) %5 ==0
+if print_num(n):
+    print("Yes")
+else:
+    print("No")
